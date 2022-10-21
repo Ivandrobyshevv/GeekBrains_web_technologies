@@ -1,0 +1,17 @@
+body {
+    width: 1800px;
+}
+p {
+    font-size: 24px;
+    
+}
+li {
+    font-size: 24px;
+}
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+em {
+    text-indent: 10px;
+}
